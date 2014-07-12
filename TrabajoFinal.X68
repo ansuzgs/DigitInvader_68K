@@ -1,6 +1,6 @@
 *---------------------------------------------------------------------
 * Program    : Digit Invaders
-* Written by : Pablo González y Kevin Llamas
+* Written by : Pablo G. y Kevin L.
 * Date       : 11-06-2014
 * Description: Implementación del famoso juego de la calculadora Casio
 *---------------------------------------------------------------------
